@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://adnanmusinovic-portfolio.000webhostapp.com/">
-        <img alt="adnan codes theme icon" src="icon.png" witdh="100" />
+        <img alt="adnan codes theme icon" src="icon.png" witdh="100px" height="100px" />
     </a>
 </p>
 <h2 align="center">adnan_codes-theme</h2>
