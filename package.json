@@ -1,0 +1,27 @@
+{
+    "name": "adnancodes",
+    "displayName": "adnancodes",
+    "description": "A modern clean theme cretated for you by Adnan Musinovic",
+    "version": "0.0.1",
+    "publisher": "adnancodes",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "adnancodes",
+                "uiTheme": "vs-dark",
+                "path": "./themes/adnan_codes-color-theme.json"
+            }
+        ]
+    },
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/adnanCodes96"
+    }
+}
